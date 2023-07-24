@@ -13,7 +13,7 @@ La base de données comporte trois tables principales (users, admins, exemplaire
 * PHP
 * Bootstrap
 * WAMP
-* MYSQL
+* MySQL
 
 ## Setup
 1. Installer WAMP :
