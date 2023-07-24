@@ -3,7 +3,7 @@ Librio est une application web de gestion de bibliothèque pour administrateurs,
 Avec Librio, les administrateurs peuvent profiter d'une expérience conviviale et intuitive. L'application offre des fonctionnalités avancées telles que la recherche de livres, la gestion des emprunts et la gestion complète de la bibliothèque. Que vous souhaitiez consulter l'état des stocks, ajouter de nouveaux livres à la collection ou suivre les emprunts, Librio met à votre disposition les outils nécessaires pour une gestion efficace.
 
 ## Database
-La base de données comporte trois tables principales (users, admins, exemplaire, emprunt et livre)
+La base de données comporte cinq tables principales (users, admins, exemplaire, emprunt et livre)
 
 ## Technologies
 * HTML
