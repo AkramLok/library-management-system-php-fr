@@ -22,11 +22,11 @@ Affichage de la liste complète des livres disponibles dans la bibliothèque.
 Recherche facile d'un livre en utilisant des critères tels que le titre, l'auteur ou l'ISBN.
 Possibilité d'ajouter, de supprimer et de modifier les informations relatives à un livre.
 Gestion des exemplaires : ajout et suppression d'exemplaires pour chaque livre.
-###Gestion des usagers
+### Gestion des usagers
 Consultation de la liste complète des usagers inscrits auprès de la bibliothèque.
 Recherche rapide d'un usager en utilisant des filtres tels que le nom, l'identifiant ou le numéro de membre.
 Ajout, suppression et modification des informations relatives aux usagers, y compris leur nom, leur adresse, etc.
-###Gestion des emprunts
+### Gestion des emprunts
 Possibilité pour les usagers d'emprunter des livres, en enregistrant la date d'emprunt et la date de retour prévue.
 Processus de retour des livres empruntés à la bibliothèque.
 Consultation facile de la liste des emprunts en cours, affichant les livres empruntés par chaque usager et leurs dates d'emprunt.
