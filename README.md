@@ -9,6 +9,7 @@ La base de données comporte cinq tables principales (users, admins, exemplaire,
 * HTML
 * CSS
 * JavaScript
+* JQuery
 * AJAX
 * PHP
 * Bootstrap
