@@ -19,21 +19,21 @@ La base de données comporte cinq tables principales (users, admins, exemplaire,
 Ce projet propose un système de gestion de bibliothèque avec les fonctionnalités classiques que l'on retrouve dans une bibliothèque traditionnelle :
 
 ### Gestion des livres
-Affichage de la liste complète des livres disponibles dans la bibliothèque.
-Recherche facile d'un livre en utilisant des critères tels que le titre, l'auteur ou l'ISBN.
-Possibilité d'ajouter, de supprimer et de modifier les informations relatives à un livre.
-Gestion des exemplaires : ajout et suppression d'exemplaires pour chaque livre.
+* Affichage de la liste complète des livres disponibles dans la bibliothèque.
+* Recherche facile d'un livre en utilisant des critères tels que le titre, l'auteur ou l'ISBN.
+* Possibilité d'ajouter, de supprimer et de modifier les informations relatives à un livre.
+* Gestion des exemplaires : ajout et suppression d'exemplaires pour chaque livre.
 
 ### Gestion des usagers
-Consultation de la liste complète des usagers inscrits auprès de la bibliothèque.
-Recherche rapide d'un usager en utilisant des filtres tels que le nom, l'identifiant ou le numéro de membre.
-Ajout, suppression et modification des informations relatives aux usagers, y compris leur nom, leur adresse, etc.
+* Consultation de la liste complète des usagers inscrits auprès de la bibliothèque.
+* Recherche rapide d'un usager en utilisant des filtres tels que le nom, l'identifiant ou le numéro de membre.
+* Ajout, suppression et modification des informations relatives aux usagers, y compris leur nom, leur adresse, etc.
 
 ### Gestion des emprunts
-Possibilité pour les usagers d'emprunter des livres, en enregistrant la date d'emprunt et la date de retour prévue.
-Processus de retour des livres empruntés à la bibliothèque.
-Consultation facile de la liste des emprunts en cours, affichant les livres empruntés par chaque usager et leurs dates d'emprunt.
-Accès à un historique complet des emprunts passés, avec les dates d'emprunt et de retour pour chaque exemplaire emprunté.
+* Possibilité pour les usagers d'emprunter des livres, en enregistrant la date d'emprunt et la date de retour prévue.
+* Processus de retour des livres empruntés à la bibliothèque.
+* Consultation facile de la liste des emprunts en cours, affichant les livres empruntés par chaque usager et leurs dates d'emprunt.
+* Accès à un historique complet des emprunts passés, avec les dates d'emprunt et de retour pour chaque exemplaire emprunté.
 
 ## Setup
 1. Installer WAMP :
